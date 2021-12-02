@@ -1,0 +1,29 @@
+.sidebar{
+    height: 100vh;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    min-width: 230px;
+    flex: 0.15;
+    background-color: #000;
+    overflow-y: overlay;
+}
+
+.sidebar_logo{
+    height: 75px;
+    padding: 10px;
+    margin: auto;
+}
+
+.sidebar > hr{
+    border: 1px solid #282828;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.sidebar > strong{
+    font-size: 14px;
+    margin-left: 5%;
+
+}
+
